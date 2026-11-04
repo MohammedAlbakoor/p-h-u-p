@@ -1,0 +1,11 @@
+*.apk
+*.zip
+*.db
+*.db-*
+*.sqlite*
+*.pem
+*.key
+*.jks
+*.keystore
+.env*
+*payload.draft.json
