@@ -1,6 +1,6 @@
-# p-h-u-p Updates
+# PharmaCore Updates
 
-Public distribution metadata for p-h-u-p. Application source, pharmacy data,
+Public distribution metadata for PharmaCore. Application source, pharmacy data,
 credentials and private signing keys must never be committed here.
 
 APK and ZIP packages belong in GitHub Releases assets, not Git commits.
